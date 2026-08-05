@@ -1,30 +1,72 @@
-# 4u – Response Layer 7 (iki1uc)
+# OPTABUILD.VECTOR · PAIRING‑CORE‑UPGRADE (Level 2)
 
-4u ist die 7. Response-Ebene im iki1uc-System.
-Sie ersetzt die alte RESPO-Achse durch ein neues, systemisches Modell:
+OPTABUILD.VECTOR ist die **128‑Pyramiden‑Ebene** des iki1uc‑Systems.
 
-OK / NOK / FLOW / BREAK / ECHO / VOID / ROOT
+Es basiert auf:
 
-4u verbindet:
-- PX-TRIO (PX3 / PX6 / PX9)
-- PX12 / PX4 (Fusion + Achse)
-- SYS / SYS-x (System + Kreuzung)
-- 2me (Mirror-Return)
-- TEM (Zeit)
-- UI-SCANNER (Interface)
+- 64 Upper‑Pyramiden
+- 64 Lower‑Pyramiden
+- 8 Richtungen (VECTOR)
+- 1 Continuum‑Punkt (∞)
+- X2‑Scaling‑Pipeline
 
------------------------------------------
-# FUNKTION
+---
 
-respo.OK     → Zustimmung  
-respo.NOK    → Ablehnung  
-respo.FLOW   → System fließt  
-respo.BREAK  → System bricht  
-respo.ECHO   → Spiegelung  
-respo.VOID   → Neutral  
-respo.ROOT   → Rückkehr
+## 1. VECTOR‑Achse (8)
 
------------------------------------------
-# STATUS
+N NE E SE S SW W NW
 
-4u ist aktiv, eigenständig und vollständig iki1uc.
+
+---
+
+## 2. Continuum‑Punkt (9)
+
+∞ = (Summe aller Richtungen) / 8
+
+Upper: 8×8 = 64
+Lower: 8×8 = 64
+Total: 128
+
+
+---
+
+## 4. X2‑Scaling‑Pipeline
+
+128 → 64 → 32 → 16 → 8 → 4 → 2 → 1
+
+
+---
+
+## 5. Warum Level‑2 existiert
+
+Es löst:
+
+- 1‑D Ports  
+- 3×3 Limit  
+- 9×9 Limit  
+- fehlende Skalierung  
+- fehlende Vector‑Achse  
+
+Es erzeugt:
+
+- 128‑D Struktur  
+- Continuum‑Kern  
+- echte Evolution  
+- echte Skalierung  
+- echte Build‑Ebene  
+
+---
+
+## 6. Dateien
+
+- `index.html`
+- `ID.html`
+- `IMport.html`
+- `EXport.html`
+- `EDITport.html`
+- `README.md`
+
+---
+
+© iki1uc — OPTABUILD.VECTOR
+
